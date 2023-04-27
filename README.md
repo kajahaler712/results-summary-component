@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kajahaler712/results-summary-component)
-- Live Site URL: [Add live site URL here](https://kajahaler712.github.io/results-summary-component/index.html)
+- Solution URL: [https://github.com/kajahaler712/results-summary-component](https://github.com/kajahaler712/results-summary-component)
+- Live Site URL: [https://kajahaler712.github.io/results-summary-component/index.html](https://kajahaler712.github.io/results-summary-component/index.html)
 
 ### Built with
 
